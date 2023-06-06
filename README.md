@@ -26,8 +26,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone este repositório
 $ git clone <https://github.com/Claydev01/blue-hora.git>
 ```
-# TECNOLOGIAS
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -37,3 +35,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # AUTOR
+a href="https://www.linkedin.com/in/selton-claydevfront-end/">Selton Clay </a>
