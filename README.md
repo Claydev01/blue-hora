@@ -14,6 +14,10 @@
 # SOBRE
 <p>Foi criado com intuito para ser um relógio digital</P>
 
+<h1 align="center">
+ <img alt="read.gif" title="read.gif" src="Github/read.gif"
+</h1>
+
 
 # PRÉ-REQUISITOS
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
