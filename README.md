@@ -35,4 +35,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # AUTOR
-a href="https://www.linkedin.com/in/selton-claydevfront-end/">Selton Clay </a>
+<a href="https://www.linkedin.com/in/selton-claydevfront-end/">Selton Clay </a>
